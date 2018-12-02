@@ -1,5 +1,5 @@
 # SOLID
-##SOLID for win
+## SOLID for win
 ### one class must responsible for one purpose only, and has only one reason to change a class
 ### class is extendsible, not modifiable
 ### in a program, child class can modify parent object without changing the rightness of program
